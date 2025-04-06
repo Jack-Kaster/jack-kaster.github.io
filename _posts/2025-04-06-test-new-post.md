@@ -1,9 +1,13 @@
 ---
-title: My first test post
-date: 2025-04-06
-categories: [homelab, hardware]
-tags: [servers,dell,hp,supermicro]
+layout: post
+title: tttt
+date: 2025-04-05 00:30 -0500
+category: [tttt]
+author: tttt
+tags: [ttt]
+summary: asdfasdfa
 ---
+
 
 # Welcome
 
